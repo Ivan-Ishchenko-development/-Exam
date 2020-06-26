@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "hZTUeRU/dlXgKxP6VpPMfQDj2aI8BPJ9VqtfD/25k4B9Bo0T5L9tFJAeWmHSqsLgzr9ztDicjoLNpYWpg7S4pw==",
+  "success": false,
+  "projectFilePath": "D:\\Учеба\\3курс 2семестр\\СМТРПЗ\\ExLayer.DAL\\ExLayer.DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Ex is not compatible with netstandard2.0 (.NETStandard,Version=v2.0). Project Ex supports: netcoreapp3.1 (.NETCoreApp,Version=v3.1)",
+      "libraryId": "Ex",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}
