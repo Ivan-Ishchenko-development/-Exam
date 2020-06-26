@@ -209,7 +209,6 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "Ex >= 1.0.0",
       "ExLayer.DAL >= 1.0.0",
       "NETStandard.Library >= 2.0.3"
     ]
@@ -243,9 +242,6 @@
           "projectReferences": {
             "D:\\Учеба\\3курс 2семестр\\СМТРПЗ\\ExLayer.DAL\\ExLayer.DAL.csproj": {
               "projectPath": "D:\\Учеба\\3курс 2семестр\\СМТРПЗ\\ExLayer.DAL\\ExLayer.DAL.csproj"
-            },
-            "D:\\Учеба\\3курс 2семестр\\СМТРПЗ\\Ex\\Ex.csproj": {
-              "projectPath": "D:\\Учеба\\3курс 2семестр\\СМТРПЗ\\Ex\\Ex.csproj"
             }
           }
         }
